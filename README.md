@@ -24,4 +24,4 @@ As a learner, I enjoy exploring how frontend and backend technologies work toget
 ### Explore my Work
 I am constantly building small projects to improve my skills. Feel free to check out my repositories!
 
-<span style="color:#007bff">Portfolio coming soon (hosted via PythonAnywhere)</span><img width="365" height="729" alt="image" src="https://github.com/user-attachments/assets/9f891e03-ea42-4780-92a4-ac2b91d63bad" />
+
