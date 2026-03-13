@@ -30,4 +30,4 @@ I am constantly building small projects to improve my skills. Feel free to check
 
 [Strato Portfolio](https://jljuarez.de/)
 
-[Strato Portfolio](https://milo-radio.de/)
+[Strato Radio-App](https://milo-radio.de/)
