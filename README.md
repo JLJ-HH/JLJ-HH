@@ -24,4 +24,10 @@ As a learner, I enjoy exploring how frontend and backend technologies work toget
 ### Explore my Work
 I am constantly building small projects to improve my skills. Feel free to check out my repositories!
 
+## Autor
 
+**José Luis Juárez** - Angehender Anwendungsentwickler aus Hamburg.
+
+[Strato Portfolio](https://jljuarez.de/)
+
+[Strato Portfolio](https://milo-radio.de/)
