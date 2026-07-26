@@ -1,7 +1,7 @@
 # Hallo, ich bin José Luis Juárez 
 
 [![Portfolio](https://img.shields.io/badge/Website-jljuarez.de-007acc?style=for-the-badge&logo=firefox)](https://jljuarez.de/)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/luis-emilio-73a9763b9)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin)](https://www.linkedin.com/in/jose-luis-juarez/)
 [![Email](https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail)](mailto:luisemilio354@gmail.com)
 
 ###  Angehender Fachinformatiker für Anwendungsentwicklung (FIAW)
@@ -55,5 +55,5 @@ Ich absolviere aktuell meine Umschulung zum **Fachinformatiker für Anwendungsen
 ###  Kontakt & Netzwerke
 
 - **Web-Portfolio:** [jljuarez.de](https://jljuarez.de/)
-- **LinkedIn:** [José Luis Juárez](https://www.linkedin.com/in/luis-emilio-73a9763b9)
+- **LinkedIn:** [José Luis Juárez](https://www.linkedin.com/in/jose-luis-juarez/)
 - **E-Mail:** [luisemilio354@gmail.com](mailto:luisemilio354@gmail.com)
