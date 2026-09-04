@@ -30,9 +30,10 @@ Ich absolviere aktuell meine Umschulung zum Fachinformatiker für Anwendungsentw
 * **DevOps, Security & Tools:** Docker, Git / GitHub, Prepared Statements (PDO), XSS-/CSRF-Schutz, Password Hashing (BCrypt), RBAC
 ---
 ## Ausgewählte Projekte & Code-Beispiele
-### [Multi-Agent Bewerbungs-Manager (CrewAI & Ollama)](https://github.com/JLJ-HH/bewerbungs-manager-ollama)
-* **Tech-Stack:** Python 3.12, CrewAI, Ollama (lokale LLMs), Serper API, Docker.
+### Multi-Agent Bewerbungs-Manager (CrewAI & Ollama) — *Internes Tooling / Live-Demo auf Anfrage*
+* **Tech-Stack:** Python 3.12, CrewAI, Ollama (lokale LLMs), Serper API, UV.
 * **Kernfunktionen:** Autonome Multi-Agenten-Pipeline (Rechercheur, Profil-Analyst, Anschreiben-Stratege) zur automatisierten Erstellung passgenauer Bewerbungen; lokale RAG-Wissensbasis; deterministische Validierung via Guardrails.
+
 ### [Digitale Bibliotheksverwaltung mit RAG-KI-Suche](https://github.com/JLJ-HH/online-bibliothek)
 * **Tech-Stack:** PHP 8 (OOP), PDO, SQLite3, Ollama (gemma3:12b), Bootstrap 5.
 * **Kernfunktionen:** Rollenbasiertes Rechtesystem (RBAC), RAG-gestützter virtueller Bibliothekar für Buchempfehlungen, automatische Metadaten-Extraktion aus hochgeladenen PDFs, vollständige Absicherung gegen SQL-Injection und XSS.
