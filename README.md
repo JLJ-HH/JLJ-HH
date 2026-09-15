@@ -45,13 +45,9 @@ Ich entwickle praxistaugliche Softwarelösungen und automatisierte Pipelines an 
 
 ## Ausgewählte Projekte & Code-Beispiele
 
-### Multi-Agent Bewerbungs-Manager (CrewAI & Ollama) – *Internes Tooling / Live-Demo auf Anfrage*
-* **Tech-Stack:** Python 3.12, CrewAI, Ollama (qwen2.5:32b via 4-Bit-Quantisierung), Serper API, UV.
-* **Kernfunktionen:** Autonome Multi-Agenten-Pipeline (Rechercheur, Profil-Analyst, Anschreiben-Stratege) zur automatisierten Erstellung passgenauer Bewerbungen; lokale RAG-Wissensbasis; deterministische Validierung via Guardrails.
-
-### [n8n Workflow- & Dokumenten-Automatisierung](https://github.com/JLJ-HH)
-* **Tech-Stack:** n8n, JavaScript, Google Drive & Gmail API, Webhooks, PDF-Merge-Engines.
-* **Kernfunktionen:** Automatisierte End-to-End-Pipeline zur Generierung, dynamischen Zusammenführung (PDF-Merge) und zum automatisierten Versand von Bewerbungs- und Unternehmensdokumenten mit Status-Monitoring.
+### Multi-Agent Pipeline & n8n Workflow-Automatisierung – *Internes Tooling / Live-Demo auf Anfrage*
+* **Tech-Stack:** Python 3.12, CrewAI, Ollama (qwen2.5:32b via 4-Bit-Quantisierung), n8n, JavaScript, Google Drive & Gmail API, Serper API, UV.
+* **Kernfunktionen:** Autonome End-to-End-Pipeline zur automatisierten Firmenrecherche, Profilanalyse und Anschreibengenerierung; lokale RAG-Wissensbasis mit deterministischer Guardrail-Validierung; nahtlose n8n-Integration zur dynamischen PDF-Zusammenführung (PDF-Merge) und zum automatisierten Dokumentenversand mit Status-Monitoring.
 
 ### [Digitale Bibliotheksverwaltung mit RAG-KI-Suche](https://github.com/JLJ-HH/online-bibliothek)
 * **Tech-Stack:** PHP 8 (OOP), PDO, SQLite3, Ollama (gemma3:12b), Bootstrap 5.
