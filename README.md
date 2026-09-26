@@ -29,7 +29,7 @@ Ich entwickle praxistaugliche Softwarelösungen und automatisierte Pipelines an 
   * **Software-Architektur & Qualität:** Entwurfsmuster, saubere Schichtenarchitektur, UML-Modellierung, RBAC, XSS-/CSRF-Schutz, Password-Hashing (BCrypt)
   * **Datenbanken:** Relationale Datenmodellierung (Chen-ERD, 3NF), Normalisierung, Tabellendesign, Prepared Statements, SQL (MySQL, MariaDB, SQLite)
 * **Cloud Computing:** AWS Certified Cloud Practitioner & Cloud-Architektur (in Vorbereitung)
-* **Fachinformatiker für Anwendungsentwicklung (FIAW):** IHK-Abschluss am CBW College Hamburg (in Umschulung, 06/2025 – 06/2027)
+* **Fachinformatiker für Anwendungsentwicklung (FIAW):** IHK-Abschluss am CBW College Hamburg (in Umschulung, 06/2025 - 06/2027)
 
 ---
 
@@ -45,9 +45,17 @@ Ich entwickle praxistaugliche Softwarelösungen und automatisierte Pipelines an 
 
 ## Ausgewählte Projekte & Code-Beispiele
 
-### Multi-Agent Pipeline & n8n Workflow-Automatisierung – *Internes Tooling / Live-Demo auf Anfrage*
-* **Tech-Stack:** Python 3.12, CrewAI, Ollama (qwen2.5:32b via 4-Bit-Quantisierung), n8n, JavaScript, Google Drive & Gmail API, Serper API, UV.
-* **Kernfunktionen:** Autonome End-to-End-Pipeline zur automatisierten Firmenrecherche, Profilanalyse und Anschreibengenerierung; lokale RAG-Wissensbasis mit deterministischer Guardrail-Validierung; nahtlose n8n-Integration zur dynamischen PDF-Zusammenführung (PDF-Merge) und zum automatisierten Dokumentenversand mit Status-Monitoring.
+### 1. A-Team – Autonome Multi-Agenten-Crew *(Internes Tooling / Live-Demo auf Anfrage)*
+* **Tech-Stack:** Python 3.12, CrewAI, Streamlit, Pydantic, Docker MCP, n8n Webhook-Bridge, Rich CLI.
+* **Kernfunktionen:** Hierarchisches Multi-Agenten-System mit interaktiver Mid-Flight-Steuerung und dualer Benutzeroberfläche; blitzschnelle System-1 Decision Engine (Jev in <100ms) zur Vorab-Klassifikation und selektiven Aktivierung spezialisierter Fachteams (spart bis zu 80% an Tokens).
+
+### 2. Bewerbungs-Manager (Cloud & Local Hybrid Edition) *(Internes Tooling / Live-Demo auf Anfrage)*
+* **Tech-Stack:** Python, CrewAI, Gemini API, DeepSeek, Ollama, SQLite3, Playwright, Serper API.
+* **Kernfunktionen:** Universelles 5-Tab Web-Cockpit zur automatisierten Bewerbungserstellung; 100% lokaler SQLite-Datenschutz; ATS-optimierter DIN 5008 One-Page Lebenslauf-Editor; automatisiertes ATS-Audit mit Clara-Score (0–100); 40er-Firmenscout-Pipeline mit Dublettenschutz und Impressums-Scraper.
+
+### 3. Bewerbungs-Manager (Ollama Edition & n8n Automation) *(Internes Tooling / Live-Demo auf Anfrage)*
+* **Tech-Stack:** Python 3.12, CrewAI, Ollama (qwen2.5:32b via 4-Bit-Quantisierung), n8n, Google Drive API, Playwright, Serper API, UV.
+* **Kernfunktionen:** Vollständig lokale, datensouveräne Multi-Agenten-Pipeline (architektonisches Fundament und Urvater für Cloud-Manager und A-Team); deterministische Clara-Guardrails mit automatischem Selbstheilungs-Loop; ereignisgesteuerte n8n-Workflow-Automation für strukturierte Dokumentenablage.
 
 ### [Digitale Bibliotheksverwaltung mit RAG-KI-Suche](https://github.com/JLJ-HH/online-bibliothek)
 * **Tech-Stack:** PHP 8 (OOP), PDO, SQLite3, Ollama (gemma3:12b), Bootstrap 5.
