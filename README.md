@@ -5,7 +5,15 @@
 [![Email](https://img.shields.io/badge/Email-Kontaktieren-D14836?style=for-the-badge&logo=gmail)](mailto:luisemilio354@gmail.com)
 
 ### Software Developer · KI-Agenten & Workflow-Automatisierung
-Hamburg | CBW College Hamburg | IHK-Pflichtpraktikum: 120 Praxistage im Zeitraum 12.10.2026 bis 01.06.2027
+Hamburg | CBW College Hamburg | IHK-Pflichtpraktikum (10/2026 – 06/2027)
+
+<p>
+  <a href="https://harborx.de" target="_blank" rel="noopener">
+    <img src="https://harborx.de/hubfs/Design%20ohne%20Titel%20(19).png" alt="HarborX GmbH" height="32" />
+  </a>
+</p>
+
+**Aktuell:** Praktikant AI & Automation @ **[HarborX GmbH](https://harborx.de)** (Hamburg)
 
 ---
 
@@ -13,9 +21,9 @@ Hamburg | CBW College Hamburg | IHK-Pflichtpraktikum: 120 Praxistage im Zeitraum
 
 Ich entwickle praxistaugliche Softwarelösungen und automatisierte Pipelines an der Schnittstelle von robustem Fullstack-Engineering und moderner KI-Orchestrierung. Mein Fokus liegt darauf, Entwicklungs- und Unternehmensprozesse durch deterministisch geführte Multi-Agenten-Systeme, strukturierte RAG-Pipelines und modulare Web-Architekturen messbar zu beschleunigen.
 
+* **Aktuelle Praxis (HarborX GmbH):** Im Rahmen meines IHK-Pflichtpraktikums im Bereich *AI & Automation* arbeite ich an produktiven Automatisierungs-Workflows, REST-API- und Webhook-Integrationen, System-Monitoring, strukturierter SEO-/JSON-LD-Datenausgabe sowie der Konzeption relationaler Datenbank-Architekturen.
 * **Vom Koch zum Softwareentwickler:** Vor meiner IT-Laufbahn war ich gelernter Koch. Die verinnerlichte „Mise en Place“-Mentalität (sorgfältige Vorbereitung, modulare Strukturierung und saubere Code-Architektur vor der Umsetzung) sowie der „Küchenbrigade-Teamgeist“ (zielgerichtete Kommunikation, Stressresistenz und verlässliche Übergaben) prägen meine Arbeitsweise in agilen Entwicklungsteams.
 * **Moderne Engineering- & KI-Workflows:** Ich orchestriere Multi-Agenten-Systeme mit CrewAI und lokalen LLMs (Ollama via 4-Bit-Quantisierung), integriere das Model Context Protocol (MCP) zur standardisierten Werkzeuganbindung (z. B. Docker Daemons) und nutze blitzschnelle System-1 Vorab-Klassifikationen (<100ms) zur drastischen Token- und Latenzoptimierung (Jev Engine). Zudem baue ich ereignisgesteuerte n8n-Pipelines mit Webhooks und REST-APIs und entwickle modulare Python- und PHP-Backends.
-
 
 ---
 
@@ -26,9 +34,9 @@ Ich entwickle praxistaugliche Softwarelösungen und automatisierte Pipelines an 
 * **Fachliche Schwerpunkte:**
 * **KI & Workflow-Automatisierung:** Autonome Multi-Agenten-Systeme (CrewAI), Model Context Protocol (MCP / System-Tool-Integration), System-1 Decision Routing & Token-Optimierung (Jev Engine), lokale LLM-Integration (Ollama), semantische RAG-Pipelines, n8n-Prozessautomatisierung, REST-APIs & Webhooks
 * **Python-Entwicklung:** Objektorientierte Programmierung (OOP), Flask (Blueprint-Architektur), Scripting, Datenverarbeitung, Testabläufe & deterministische Guardrails
-* **Web- & Backend-Entwicklung:** PHP 8 (OOP, PDO, MVC), Modernes JavaScript (ES6+), React, WordPress (Theme- & Plugin-Architektur, WCAG-Barrierefreiheit)
+* **Web- & Backend-Entwicklung:** PHP 8 (OOP, PDO, MVC), Modernes JavaScript (ES6+), React, WordPress (Theme- & Plugin-Architektur, WCAG-Barrierefreiheit), SEO / Schema.org (`JSON-LD`)
 * **Software-Architektur & Qualität:** Entwurfsmuster, saubere Schichtenarchitektur, UML-Modellierung, RBAC, XSS-/CSRF-Schutz, Password-Hashing (BCrypt)
-* **Datenbanken:** Relationale Datenmodellierung (Chen-ERD, 3NF), Normalisierung, Tabellendesign, Prepared Statements, SQL (MySQL, MariaDB, SQLite)
+* **Datenbanken:** Relationale Datenmodellierung (Chen-ERD, 3NF), Normalisierung, Tabellendesign, Prepared Statements, SQL (MySQL, MariaDB, SQLite, PostgreSQL-Konzeption)
 * **Cloud Computing:** AWS Certified Cloud Practitioner & Cloud-Architektur (in Vorbereitung)
 * **Fachinformatiker für Anwendungsentwicklung (FIAW):** IHK-Abschluss am CBW College Hamburg (in Umschulung, 06/2025 - 06/2027)
 
@@ -38,8 +46,8 @@ Ich entwickle praxistaugliche Softwarelösungen und automatisierte Pipelines an 
 
 * **KI, Agenten & Automation:** CrewAI (Multi-Agent Systems), Model Context Protocol (MCP), System-1 Routing (Jev Engine), Ollama (Lokale LLMs wie Qwen 2.5 & Gemma), n8n-Pipelines, RAG-Architekturen, REST-APIs & Webhooks, Prompt Engineering
 * **Programmiersprachen:** Python 3.x (OOP, Scripting, Automation), PHP 8 (OOP, PDO), Java (JCA-zertifiziert), JavaScript (ES6+ Vanilla & Modules), HTML5, CSS3, SQL
-* **Web & Frameworks:** Flask (Blueprints), React, Bootstrap 5, WordPress (Plugin-/Theme-Architektur, WCAG 2.1), PWA, SPA-Router
-* **Datenbanken & Architektur:** MySQL / MariaDB, SQLite3, MVC, Relationale Datenmodellierung (3NF), RBAC
+* **Web & Frameworks:** Flask (Blueprints), React, Bootstrap 5, WordPress (Plugin-/Theme-Architektur, WCAG 2.1), PWA, SPA-Router, Schema.org (`JSON-LD`)
+* **Datenbanken & Architektur:** MySQL / MariaDB, SQLite3, PostgreSQL (Konzeption), MVC, Relationale Datenmodellierung (3NF), RBAC
 * **DevOps, Security & Tools:** Docker, Git / GitHub, Strato CGI-Deployment, Prepared Statements (PDO), XSS-/CSRF-Schutz, Password Hashing (BCrypt), Scrum (PSM I)
 
 ---
